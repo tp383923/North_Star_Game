@@ -1,3 +1,3 @@
 # North_Star_Game
 
-A small game made to learn the game engine Bitsy.
+A small game I made to learn the game engine Bitsy.
